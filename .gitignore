@@ -1,0 +1,17 @@
+
+# node module
+node_modules
+
+# nyc_output
+.nyc_output
+
+# compiled js
+lib 
+# env file
+.env
+
+# yarn errors
+yarn-error.log
+
+#vscode
+.vscode
